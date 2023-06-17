@@ -1,5 +1,5 @@
 # Independence-day-website-
-Web Technologies used: HTML
+Web Technologies used: HTML,css
 Independence Day is celebrated annually on the 15th of August as a National Holiday. On 15th August 2022, we will celebrate the 75th Anniversary of Indian Independence.
 
 Description:
